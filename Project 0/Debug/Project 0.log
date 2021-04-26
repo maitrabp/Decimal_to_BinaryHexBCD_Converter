@@ -1,0 +1,5 @@
+﻿  Conversion.cpp
+c:\users\binde\documents\visual studio 2017\projects\cis 310\project 0\project 0\conversion.cpp(66): warning C4018: '<': signed/unsigned mismatch
+c:\users\binde\documents\visual studio 2017\projects\cis 310\project 0\project 0\conversion.cpp(106): warning C4018: '<': signed/unsigned mismatch
+  Project 0.vcxproj -> C:\Users\binde\Documents\Visual Studio 2017\Projects\CIS 310\Project 0\Debug\Project 0.exe
+  Project 0.vcxproj -> C:\Users\binde\Documents\Visual Studio 2017\Projects\CIS 310\Project 0\Debug\Project 0.pdb (Partial PDB)
